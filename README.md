@@ -1,4 +1,4 @@
-# Real Estate Listing Manager
+# <img src="https://github.com/user-attachments/assets/768a630a-24bb-4bb3-8b8c-09d36715dce5" alt="house-moving" width="45" height="45" style="vertical-align:middle;" /> Real Estate Listing Manager
 
 This is a modern web app for managing and browsing real estate listings, designed with a focus on Indian properties and users.
 
@@ -134,5 +134,6 @@ Feel free to customize and expand this project as you like!
 - You do NOT need to log in separately on the backend.
 - All user session management is handled by Firebase on the frontend.
 - The backend only accepts requests with a valid Firebase ID token.
+
 
 --- 
